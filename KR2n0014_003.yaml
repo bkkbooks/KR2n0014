@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2n0014/krp/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法帖刋誤跋長睿頃官于洛因得從之游嘗閲吾家所藏內府帖且以米老跋尾辨之惜其疏略遂著此書議論精確悉有證據使真贋了然誠前人所未到也是書之作實自余發之嘗作詩題吾家大令帖見於第九章云政和甲午正月十三日周南王珍晉玉題於開封尹㕔之東齊余待罪天祿與觀中祕古蹟石刻所本其真易識蓋了然知其僞者十九而後乃知黃子之作此書拔賞者寡而掊擊者多故有以也書之考引載籍則昭昭矣至其洞察真贋品藻髙下水墨之間毫釐千里則非書家者流心知其意未易不惑余是以道余所見於天祿者使世知其論刻之嚴如此皆不妄也政和五年三月中浣襄陵許翰嵩老跋
+  hash: sha256:3a92b614c76c34d34baf92759708add83fb90ebbe2e5e15c03e654447b0d2b0d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2n0014_WYG_003-1a, image: WYG0681/WYG0681-0393c.png}
+metadata:
+  title: 法帖刊誤
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:54:13.617386'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR2n0014/KR2n0014_003.txt
+hash: sha256:1e7b281120d02a5a0fbc4106dd8a661706220266ef12989fca885ce06ba27422
